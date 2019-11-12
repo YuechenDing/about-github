@@ -23,6 +23,7 @@ Compare the base(the original branch e.g. master) and the head(the edited branch
 Click create pull request button
 
 Click mearge pull request button(the master branch will be updated)
+You can delete the branch since it has been updated in master branch
 
 2.Fork 
 Fork others' repositories(get a copy of their repositories in your list of repository)
