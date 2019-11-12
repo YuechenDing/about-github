@@ -22,7 +22,7 @@ Click the file in the target branch and make uodates
 Click commit changes to save
 
 # pull request
-1.pull request(your own projects)
+1. pull request(your own projects)
 
 Click pull request-->new pull request
 
@@ -34,7 +34,8 @@ Click mearge pull request button(the master branch will be updated)
 
 You can delete the branch since it has been updated in master branch
 
-2.Fork 
+2. Fork 
+
 Fork others' repositories(get a copy of their repositories in your list of repository)
 
 The following steps are the same as situation 1
