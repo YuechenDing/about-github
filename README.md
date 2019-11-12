@@ -2,12 +2,16 @@
 
 # repository:仓库
 Repository is used to store everything about a project(code,figures,readme_file.....)
+
 Press the '+' button to create repository
+
 Repostory is consists of several branches(for version control)
 
 # branch:分支
 'master' branch is a default branch (base branch)
+
 Create another branch to get a copy of the base branch 
+
 Update files in these branches to do version control
 
 # commit
